@@ -6,7 +6,6 @@ bio = {
 	"major": "electrical and computer engineering",
 	"exp.grad": "may 2024",
 	"experience": [
-			"incoming hardware engineering intern (nvidia)",
 			"data analyst scholar (nielseniq)",
 			"peer tutor (morgan state)"
 			],
