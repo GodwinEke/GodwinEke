@@ -2,11 +2,13 @@
 
 ```javascript
 bio = {
+	"name": "Godwin_Eke",
 	"education": "morgan state university",
 	"major": "electrical and computer engineering",
 	"exp.grad": "may 2024",
 	"experience": [
-			"data analyst scholar (nielseniq)",
+			"incoming hardware engineer @nvidia",
+			"goldman sachs hbcu: market madness participant @goldmansachs",
 			"peer tutor (morgan state)"
 			],
 	"projects": [ "erikwonda (jan 2022 - present)..."]
