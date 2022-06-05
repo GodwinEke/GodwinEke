@@ -7,7 +7,7 @@ bio = {
 	"major": "electrical and computer engineering",
 	"exp.grad": "may 2024",
 	"experience": [
-			"incoming hardware engineer @nvidia",
+			"hardware engineer @nvidia",
 			"goldman sachs hbcu: market madness participant @goldmansachs",
 			"peer tutor (morgan state)"
 			],
