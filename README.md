@@ -22,3 +22,4 @@ bio = {
 ```
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GodwinEke&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodwinEke)](https://github.com/anuraghazra/github-readme-stats)
